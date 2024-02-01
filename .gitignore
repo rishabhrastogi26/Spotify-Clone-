@@ -1,0 +1,6 @@
+spotify_clone_abt.docx
+.vscode
+spotify_backend/.env
+spotify_backend/node_modules
+spotify_frontend/node_modules
+spotify_frontend/src/config.js
